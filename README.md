@@ -31,4 +31,4 @@ Yapay zeka entegrasyonları, eğitim teknolojileri ve modern yazılım çözüml
 * Eğitim teknolojilerinde yapay zeka entegrasyonunu artıran yenilikçi ve açık kaynaklı projelere öncülük etmek.
 * Hem sistem seviyesinde hem de kullanıcıya dokunan arayüz mimarilerinde tam yetkinliğe sahip, çok yönlü bir mühendislik vizyonu oluşturmak.
 
-> "Bir sistemin sadece çalışması yetmez; optimize, güvenli ve sürdürülebilir olması gerekir."
+> "Bir sorun var ise kapat aç yap."
