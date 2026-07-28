@@ -9,7 +9,7 @@ Yapay zeka entegrasyonları, eğitim teknolojileri ve modern yazılım çözüml
 ### 🚀 Güncel Çalışmalar ve Projeler
 
 * **MEB & Yapay Zeka AR-GE:** Eğitim süreçlerini optimize etmeye yönelik, yapay zeka destekli modüller ve akıllı sistem entegrasyonları üzerinde araştırmalar ve geliştirmeler yapıyorum.
-* **Dijital Okul Panosu:** Eğitim kurumları için canlı, dinamik ve esnek bir dijital pano uygulaması geliştiriyorum. Projede modern web teknolojileri, SQL veritabanı mimarisi ve bulut tabanlı (serverless) altyapılar kullanıyorum.
+* **Dijital Okul Panosu:** Eğitim kurumları için canlı, dinamik ve esnek bir dijital pano uygulaması geliştiriyorum. Projede React, TypeScript ve Vite gibi modern web teknolojileri, Node.js & Express tabanlı backend mimarisi ve ekranlara anlık veri aktarımı sağlayan canlı senkronizasyon (SSE) altyapısı kullanıyorum.
 * **Sistem ve Algoritma Mantığı:** Yazılımın temellerini daha iyi kavramak adına JavaScript/TypeScript ekosisteminin yanı sıra alt ve orta seviyeli programlama dilleriyle (C, Assembly) ilgileniyor, algoritma optimizasyonları üzerine çalışıyorum.
 
 ---
