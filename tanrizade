@@ -1,13 +1,13 @@
-### TNRZD
+TNRZD
 
 Modern web teknolojileri ve eğitim odaklı yazılımlar geliştiren bir yazılımcıyım. Kullanıcı dostu arayüzler ve pratik backend çözümleri üretmeye odaklanıyorum.
 
-#### Çalışmalar
+Çalışmalar
 - **Dijital Okul Panosu:** Okullar için React, TypeScript ve Node.js ile anlık veri aktarımı yapan dinamik bir pano uygulaması geliştiriyorum.
 - **Eğitim & AI:** Eğitim süreçlerini destekleyecek pratik yapay zeka entegrasyonları üzerine denemeler yapıyorum.
 - **Öğrenme Süreci:** PHP/Laravel ekosistemi, Vue.js mimarisi ve MySQL ile veri yönetimi üzerine pratikler yapıyorum.
 
-#### Kullandığım Teknolojiler
+Kullandığım Teknolojiler
 - **Frontend:** Vue.js, React, TypeScript, Tailwind CSS
 - **Backend & DB:** Laravel (PHP), Node.js, MySQL
 - **Araçlar:** Git, GitHub, Linux
